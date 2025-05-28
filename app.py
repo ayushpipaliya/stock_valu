@@ -175,7 +175,6 @@ def create_metrics_radar_chart(metrics):
 def main():
     # Title and description
     st.title("📈 Stock Valuation Analyzer")
-    st.markdown("### Comprehensive stock analysis with real-time data from Yahoo Finance")
     
     # Sidebar for input
     with st.sidebar:
